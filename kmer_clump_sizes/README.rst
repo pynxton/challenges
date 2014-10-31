@@ -33,3 +33,6 @@ FAQs
    
    It occurs twice, according to the description in the course. 
 
+Solution: 
+=============
+1904 distinct kmers
