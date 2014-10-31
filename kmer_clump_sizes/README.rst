@@ -23,3 +23,13 @@ asks us to use the data from here:
 https://stepic.org/media/attachments/lessons/4/E-coli.txt
 
 with:k = 9, L = 500, t = 3 
+
+
+FAQs
+=====
+
+#. What happens when patterns overlap? For example, imagine you are scanning through 'GAGAG' and looking for 
+   'GAG': does this k-mer occur once or twice?
+   
+   It occurs twice, according to the description in the course. 
+
