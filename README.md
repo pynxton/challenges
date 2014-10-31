@@ -7,6 +7,5 @@ The main idea behind these challenges is collaboration (not competition) and the
 
 Here is a short description and link to each  challenge directory
 
-- k-mer clump sizes in E-colo (proposed by Simon F.)
-
+- k-mer clump sizes in E-colo (proposed by Simon F.) See [description](https://github.com/pynxton/challenges/tree/master/kmer_clump_sizes) .
 
