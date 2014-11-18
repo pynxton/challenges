@@ -9,3 +9,4 @@ Here is a short description and link to each  challenge directory
 
 - k-mer clump sizes in E-colo (proposed by Simon F.) See [description](https://github.com/pynxton/challenges/tree/master/kmer_clump_sizes) .
 
+- DNA reverse complement (proposed by Alistair ) See [description](https://github.com/pynxton/challenges/tree/master/reverse_complement) .
