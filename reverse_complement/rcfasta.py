@@ -1,3 +1,11 @@
+# 25th Nov ideas for improvments
+# 1 - read files in reverse order using generator:
+# http://stackoverflow.com/questions/2301789/read-a-file-in-reverse-order-using-python
+
+# write the files on the fly to keep the IO occupied
+# 
+
+
 #November 2014
 #alistair.macdougall@ebi.ac.uk
 #Input: DNA sequence in fasta format
@@ -26,6 +34,7 @@ def newrc(kmer, n):
             rclist.append('G')
         elif c == 'N':
             rclist.append('N')
+        #idea to use dictionary : rclist.append(dict_compl[c])
         else:
             print "Error: Unrecognised Nucleotide " + c
     rc = ''.join(rclist)    
