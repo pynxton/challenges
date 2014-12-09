@@ -4,6 +4,8 @@ DNA reverse complement challenge
 - reading a fasta file
 - perform reverse complement
 - save result in fasta file
+- Each scritp should have a class called DNAReverseComplement and a method
+  called run that does the reading/writing/complement
 
 https://github.com/pynxton/course_data/ecoli_dna.fa
 
