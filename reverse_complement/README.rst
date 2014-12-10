@@ -37,6 +37,9 @@ To retrieve the sequence to play with, type::
 Testing and updating the leaderboard image
 =============================================
 
+#. update challenges repositoty
+#. Install **challenges** package (python setup.py install)
+#. got back to this directory (cd reverse_complement)
 #. Edit update_lb.py to add your module's name 
 # type: 
     python update_lb.py
