@@ -34,10 +34,14 @@ To retrieve the sequence to play with, type::
     wget ftp://ftp.ensembl.org/pub/release-77/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.chromosome.10.fa.gz 
 
 
-Testing
-=============
+Testing and updating the leaderboard image
+=============================================
 
-Edit update_lb.py to add your module's name and execute the script to check where you stand.
+#. Edit update_lb.py to add your module's name 
+# type: 
+    python update_lb.py
+# a new image called lb.png should have been created
+# commit and push the lb.png figure 
 
 Current status
 ================
