@@ -11,7 +11,7 @@ b = Benchmark(replicates=2)
 # ADD YOU MODULE NAME HERE BELOW
 
 b.add_script('maketrans')
-#b.add_script('yourmodule')
+b.add_script('biopython')
 
 # <<<<<<<<<<<<<<<<<<<<<< nothing to change here below
 b.run()
